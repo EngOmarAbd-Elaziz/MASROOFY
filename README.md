@@ -180,16 +180,16 @@ Responsive desktop layout
 
 ## 📸 UI Preview
 
-> Add screenshots of:
+> Some screenshots of:
 
 
 
-Dashboard
-
-Charts
-
-Transaction view
-
+<img width="1919" height="1075" alt="Screenshot 2026-05-02 031640" src="https://github.com/user-attachments/assets/8063d195-0eef-4a1e-a2d7-54639ef7dbf9" />
+<br>
+<img width="1919" height="1075" alt="Screenshot 2026-05-02 025708" src="https://github.com/user-attachments/assets/ffe4c3fa-a61f-4bee-bed7-215e2d4fcada" />
+<br>
+<img width="630" height="762" alt="Screenshot 2026-05-03 162405" src="https://github.com/user-attachments/assets/57025077-ae65-4867-81b5-66b720d8601f" />
+<br>
 
 
 ---
